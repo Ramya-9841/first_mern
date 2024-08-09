@@ -19,7 +19,7 @@ function App() {
     <div >
       <Home/>
       <About/>
-      <button onClick={getUser}>click to get user list</button>
+      <button onClick={getUser}>click t</button>
         </div>
   );
 }
